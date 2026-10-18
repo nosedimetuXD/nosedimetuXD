@@ -124,7 +124,47 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🚑 [project_Flowsense](https://github.com/nosedimetuXD/project_Flowsense)
+### ☕ [Toffee](https://github.com/nosedimetuXD/Toffee)
+
+**Sistema Web & PWA para gestión de cafetería y POS**
+
+Hecho por y para estudiantes. Sistema POS multiusuario, comandas en tiempo real, control de inventario/mermas y contabilidad avanzada.
+
+**Highlights:**
+- 🛒 Punto de venta (POS) multiusuario en tiempo real
+- 📦 Control de stock, inventario y registro de mermas
+- 📊 Reportes financieros y contabilidad avanzada
+- 🌐 PWA instalable con funcionamiento rápido
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚛️ [HPC-Studio](https://github.com/nosedimetuXD/HPC-Studio)
+
+**High Performance Computing & Quantum Simulation Studio**
+
+Plataforma interactiva para computación de alto rendimiento y simulación cuántica, diseñada para experimentación y cálculos complejos.
+
+**Highlights:**
+- 🔬 Simulador y entorno para circuitos y algoritmos cuánticos
+- 🖥️ Interfaz de usuario interactiva y fluida
+- ⚙️ Backend de alto rendimiento para cómputo intensivo
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚑 [project_Flowsense](https://github.com/Dmgar/project_Flowsense)
 
 **Percepción de tráfico en tiempo real con OpenCV 5**
 
@@ -143,7 +183,7 @@ Sistema de visión por computador para enrutar de forma dinámica vehículos de 
 </td>
 <td width="50%" valign="top">
 
-### 🏛️ [CEIS_HUB](https://github.com/nosedimetuXD/CEIS_HUB)
+### 🏛️ [CEIS_HUB](https://github.com/Minogar28/CEIS_HUB)
 
 **Plataforma oficial estudiantil de Ing. de Sistemas**
 
@@ -157,46 +197,7 @@ Aplicativo web intuitivo y robusto para la comunidad académica de Ingeniería d
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☕ [Toffee](https://github.com/nosedimetuXD/Toffee)
-
-**Sistema Web & PWA para gestión de cafetería y POS**
-
-Hecho por y para estudiantes. Sistema POS multiusuario, comandas en tiempo real, control de inventario/mermas y contabilidad avanzada.
-
-**Highlights:**
-- 🛒 Punto de venta (POS) multiusuario en tiempo real
-- 📦 Control de stock, inventario y registro de mermas
-- 📊 Reportes financieros y contabilidad avanzada
-- 🌐 PWA instalable con funcionamiento rápido
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚛️ [HPC-Studio](https://github.com/nosedimetuXD/HPC-Studio)
-
-**High Performance Computing & Quantum Simulation Studio**
-
-Plataforma interactiva para computación de alto rendimiento y simulación cuántica, diseñada para experimentación y cálculos complejos.
-
-**Highlights:**
-- 🔬 Simulador y entorno para circuitos y algoritmos cuánticos
-- 🖥️ Interfaz de usuario interactiva y fluida
-- ⚙️ Backend de alto rendimiento para cómputo intensivo
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HPC](https://img.shields.io/badge/Computing-HPC-00599C?style=flat-square)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 </td>
 </tr>
@@ -216,36 +217,77 @@ Plataforma interactiva para computación de alto rendimiento y simulación cuán
     <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#27c93f; margin-right:12px;"></span>
     <span style="color:#85B7EB; font-family:monospace; font-size:13px;">workspace — tree</span>
   </div>
-  <div style="padding:12px;">
+  <div style="padding:16px;">
 
 <div align="center">
 
-[![Flowsense-Repo](https://github-readme-stats.vercel.app/api/pin/?username=nosedimetuXD&repo=project_Flowsense&theme=tokyonight&hide_border=true&bg_color=042C53&title_color=85B7EB&icon_color=378ADD&text_color=B5D4F4)](https://github.com/nosedimetuXD/project_Flowsense)
+[![Toffee-Repo](https://github-readme-stats.vercel.app/api/pin/?username=nosedimetuXD&repo=Toffee&theme=tokyonight&hide_border=true&bg_color=042C53&title_color=85B7EB&icon_color=378ADD&text_color=B5D4F4)](https://github.com/nosedimetuXD/Toffee)
+&nbsp;
+[![HPC-Studio-Repo](https://github-readme-stats.vercel.app/api/pin/?username=nosedimetuXD&repo=HPC-Studio&theme=tokyonight&hide_border=true&bg_color=042C53&title_color=85B7EB&icon_color=378ADD&text_color=B5D4F4)](https://github.com/nosedimetuXD/HPC-Studio)
 
 </div>
 
-> 🚀 **Ingeniería de Sistemas — Universidad de Cartagena** · Proyectos activos, investigación y desarrollo.
+> 📦 **Ingeniería de Sistemas — Universidad de Cartagena** · Repositorios, proyectos y desarrollo activo.
 
 <pre style="background:transparent; margin:0; font-family:'Fira Code',monospace; font-size:13px; line-height:1.55; color:#B5D4F4;">
 <span style="color:#85B7EB; font-weight:bold;">nosedimetuXD/</span>
-<span style="color:#5A8DBF;">├──</span> <span style="color:#3776AB; font-weight:bold;">Computer-Vision-AI/</span>
-<span style="color:#5A8DBF;">│   ├──</span> project_Flowsense <span style="color:#7A93B5;">(OpenCV 5 · Emergency Traffic Perception)</span>
-<span style="color:#5A8DBF;">│   └──</span> Video Stream Processing &amp; AWS Deployment
+<span style="color:#5A8DBF;">├──</span> <span style="color:#00599C; font-weight:bold;">Systems-HPC-Cpp/</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/HPC-Studio" style="color:#B5D4F4;">HPC-Studio</a> <span style="color:#7A93B5;">(Quantum Simulation &amp; Parallel Computing)</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/HPC-Studio-Backend" style="color:#B5D4F4;">HPC-Studio-Backend</a> <span style="color:#7A93B5;">(Python Computational Engine)</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/HPC-Studio-download-page" style="color:#B5D4F4;">HPC-Studio-download-page</a>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/GamepadMapperLib" style="color:#B5D4F4;">GamepadMapperLib</a> <span style="color:#7A93B5;">(C++ Input Controller Library)</span>
+<span style="color:#5A8DBF;">│   └──</span> <a href="https://github.com/nosedimetuXD/Semard-Control-Center" style="color:#B5D4F4;">Semard-Control-Center</a> <span style="color:#7A93B5;">(Go Control Core)</span>
 <span style="color:#5A8DBF;">│</span>
-<span style="color:#5A8DBF;">├──</span> <span style="color:#3178C6; font-weight:bold;">Web-Apps-Platforms/</span>
-<span style="color:#5A8DBF;">│   ├──</span> CEIS_HUB <span style="color:#7A93B5;">(Portal Estudiantil · Universidad de Cartagena)</span>
-<span style="color:#5A8DBF;">│   ├──</span> Toffee <span style="color:#7A93B5;">(POS &amp; Cafetería · React + Go + Postgres)</span>
-<span style="color:#5A8DBF;">│   └──</span> Hackathon-CTW-Arepa-Tech
+<span style="color:#5A8DBF;">├──</span> <span style="color:#3776AB; font-weight:bold;">AI-Vision-Automation/</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/Dmgar/project_Flowsense" style="color:#B5D4F4;">project_Flowsense</a> <span style="color:#7A93B5;">(OpenCV 5 · Emergency Traffic Perception - AWS)</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/Software-Docs-Engineer" style="color:#B5D4F4;">Software-Docs-Engineer</a> <span style="color:#7A93B5;">(Python Automated Documentation)</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/Web-Quality-and-SEO-auditor" style="color:#B5D4F4;">Web-Quality-and-SEO-auditor</a> <span style="color:#7A93B5;">(Technical SEO &amp; A11y Auditor)</span>
+<span style="color:#5A8DBF;">│   └──</span> <a href="https://github.com/ManuelAmell/CEISync" style="color:#B5D4F4;">CEISync</a> <span style="color:#7A93B5;">(Python Synchronization Tool)</span>
 <span style="color:#5A8DBF;">│</span>
-<span style="color:#5A8DBF;">├──</span> <span style="color:#00599C; font-weight:bold;">Systems-HPC/</span>
-<span style="color:#5A8DBF;">│   ├──</span> HPC-Studio <span style="color:#7A93B5;">(Quantum Simulation &amp; Parallel Computing)</span>
-<span style="color:#5A8DBF;">│   ├──</span> HPC-Studio-Backend
-<span style="color:#5A8DBF;">│   └──</span> GamepadMapperLib <span style="color:#7A93B5;">(C++ Input Controller Library)</span>
+<span style="color:#5A8DBF;">├──</span> <span style="color:#3178C6; font-weight:bold;">Web-Platforms-FullStack/</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/Toffee" style="color:#B5D4F4;">Toffee</a> <span style="color:#7A93B5;">(POS &amp; Cafetería · React + Go + PostgreSQL)</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/Minogar28/CEIS_HUB" style="color:#B5D4F4;">CEIS_HUB</a> <span style="color:#7A93B5;">(Portal Estudiantil · Universidad de Cartagena)</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/ManuelAmell/AdminFit" style="color:#B5D4F4;">AdminFit</a> <span style="color:#7A93B5;">(TypeScript Fitness Management)</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/ManuelAmell/Hackathon-CTW-Arepa-Tech" style="color:#B5D4F4;">Hackathon-CTW-Arepa-Tech</a> <span style="color:#7A93B5;">(CTW Hackathon 2026)</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/Suite-GeoEspacial" style="color:#B5D4F4;">Suite-GeoEspacial</a> <span style="color:#7A93B5;">(TypeScript Geospatial Suite)</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/Tienda-Glowandwear" style="color:#B5D4F4;">Tienda-Glowandwear</a> &amp; <a href="https://github.com/dasda214/tienda-sakuracrochet" style="color:#B5D4F4;">tienda-sakuracrochet</a>
+<span style="color:#5A8DBF;">│   └──</span> <a href="https://github.com/nosedimetuXD/Enchiladitos" style="color:#B5D4F4;">Enchiladitos</a> · <a href="https://github.com/nosedimetuXD/Intimos" style="color:#B5D4F4;">Intimos</a> · <a href="https://github.com/nosedimetuXD/QQSI" style="color:#B5D4F4;">QQSI</a>
 <span style="color:#5A8DBF;">│</span>
 <span style="color:#5A8DBF;">└──</span> <span style="color:#7FD99A; font-weight:bold;">University-Academia/</span>
-<span style="color:#5A8DBF;">    ├──</span> Proyecto-corte-1-Automatas
-<span style="color:#5A8DBF;">    └──</span> Proyecto-Carro-Pasco
+<span style="color:#5A8DBF;">    ├──</span> <a href="https://github.com/nosedimetuXD/Proyecto-corte-1-Automatas" style="color:#B5D4F4;">Proyecto-corte-1-Automatas</a> <span style="color:#7A93B5;">(Teoría de Autómatas)</span>
+<span style="color:#5A8DBF;">    └──</span> <a href="https://github.com/MCamilaAM/Proyecto-Carro-Pasco" style="color:#B5D4F4;">Proyecto-Carro-Pasco</a> <span style="color:#7A93B5;">(Física Computacional)</span>
 </pre>
+
+  </div>
+</div>
+
+---
+
+<!-- ═══════════════════ LEARNING PATH ═══════════════════ -->
+
+<div style="background:#042C53; border:1px solid #185FA5; border-radius:12px; overflow:hidden; margin:24px 0;">
+  <div style="background:#0A3D6F; padding:8px 16px; border-bottom:1px solid #185FA5;">
+    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ff5f56; margin-right:6px;"></span>
+    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ffbd2e; margin-right:6px;"></span>
+    <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#27c93f; margin-right:12px;"></span>
+    <span style="color:#85B7EB; font-family:monospace; font-size:13px;">learning — todo</span>
+  </div>
+  <div style="padding:16px;">
+
+```
+[✅] C++         — OOP, Algorithms, Systems & Hardware Libraries
+[✅] Python      — Computer Vision, Automation, AI & Scientific Computing
+[✅] TypeScript  — Modern Web Platforms, Architecture & Typing
+[✅] JavaScript  — Full-Stack Apps, Node.js, Frontend Ecosystem
+[✅] HTML/CSS    — Responsive Design & Web Standards
+[✅] Git         — Version Control & Team Workflows
+[✅] Linux       — Daily OS, Terminal & Environment Config
+[🔄] Go (Golang) — High-Performance Backends & Concurrency
+[🔄] PostgreSQL  — Advanced Relational Modeling, POS Architecture & Indexes
+[🔄] Supabase    — Backend as a Service
+[⬜] Cloud & AWS — Production Deployment, Containers & DevOps
+[⬜] Quantum Dev — Advanced Quantum Circuits & Simulation Algorithms
+```
 
   </div>
 </div>
