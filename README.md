@@ -11,8 +11,9 @@
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23042C53?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nosedimetuXD)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-franco-dev)
 [![Email](https://img.shields.io/badge/Email-%23378ADD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dfrancob1@unicartagena.edu.co)
-[![Location](https://img.shields.io/badge/Location-Cartagena%2C%20Colombia-%230A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Cartagena,+Colombia)
+[![Location](https://img.shields.io/badge/Location-Cartagena%2C%20Colombia-%23185FA5?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Cartagena,+Colombia)
 
 <br>
 
