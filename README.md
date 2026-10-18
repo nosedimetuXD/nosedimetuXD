@@ -95,6 +95,7 @@
 
 ![React](https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -124,6 +125,27 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🌶️ [Enchiladitos](https://github.com/nosedimetuXD/Enchiladitos) · [Live Demo](https://enchiladitos.vercel.app/)
+
+**Sistema de Gestión & Punto de Venta (POS) Integral**
+
+Plataforma web de punto de venta (POS), control de inventario en tiempo real, CRM 360° de clientes, contabilidad financiera y flujo de caja en vivo.
+
+**Highlights:**
+- 🛒 Catálogo visual interactivo, cobro rápido y pagos mixtos (Nequi, Bancolombia, etc.)
+- 👥 CRM 360° con timeline de compras y tickets directos vía WhatsApp
+- 📦 Control de stock en tiempo real con semáforo de agotados y registro de mermas
+- 💼 Contabilidad integral, flujo de caja y estadísticas ejecutivas del negocio
+
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
 ### ☕ [Toffee](https://github.com/nosedimetuXD/Toffee)
 
 **Sistema Web & PWA para gestión de cafetería y POS**
@@ -142,6 +164,8 @@ Hecho por y para estudiantes. Sistema POS multiusuario, comandas en tiempo real,
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ⚛️ [HPC-Studio](https://github.com/nosedimetuXD/HPC-Studio)
@@ -160,8 +184,6 @@ Plataforma interactiva para computación de alto rendimiento y simulación cuán
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🚑 [project_Flowsense](https://github.com/Dmgar/project_Flowsense)
@@ -179,25 +201,6 @@ Sistema de visión por computador para enrutar de forma dinámica vehículos de 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏛️ [CEIS_HUB](https://github.com/Minogar28/CEIS_HUB)
-
-**Plataforma oficial estudiantil de Ing. de Sistemas**
-
-Aplicativo web intuitivo y robusto para la comunidad académica de Ingeniería de Sistemas de la Universidad de Cartagena, administrado por el CEIS.
-
-**Highlights:**
-- 🎓 Portal informativo centralizado para estudiantes
-- ⚡ Interfaz moderna y reactiva construida con TypeScript
-- 📱 Experiencia optimizada para móviles y desktop
-- 👥 Gestión de eventos, avisos y recursos académicos
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 </td>
 </tr>
@@ -221,9 +224,9 @@ Aplicativo web intuitivo y robusto para la comunidad académica de Ingeniería d
 
 <div align="center">
 
-[![Toffee-Repo](https://github-readme-stats.vercel.app/api/pin/?username=nosedimetuXD&repo=Toffee&theme=tokyonight&hide_border=true&bg_color=042C53&title_color=85B7EB&icon_color=378ADD&text_color=B5D4F4)](https://github.com/nosedimetuXD/Toffee)
+[![Enchiladitos-Repo](https://github-readme-stats.vercel.app/api/pin/?username=nosedimetuXD&repo=Enchiladitos&theme=tokyonight&hide_border=true&bg_color=042C53&title_color=85B7EB&icon_color=378ADD&text_color=B5D4F4)](https://github.com/nosedimetuXD/Enchiladitos)
 &nbsp;
-[![HPC-Studio-Repo](https://github-readme-stats.vercel.app/api/pin/?username=nosedimetuXD&repo=HPC-Studio&theme=tokyonight&hide_border=true&bg_color=042C53&title_color=85B7EB&icon_color=378ADD&text_color=B5D4F4)](https://github.com/nosedimetuXD/HPC-Studio)
+[![Toffee-Repo](https://github-readme-stats.vercel.app/api/pin/?username=nosedimetuXD&repo=Toffee&theme=tokyonight&hide_border=true&bg_color=042C53&title_color=85B7EB&icon_color=378ADD&text_color=B5D4F4)](https://github.com/nosedimetuXD/Toffee)
 
 </div>
 
@@ -231,27 +234,28 @@ Aplicativo web intuitivo y robusto para la comunidad académica de Ingeniería d
 
 <pre style="background:transparent; margin:0; font-family:'Fira Code',monospace; font-size:13px; line-height:1.55; color:#B5D4F4;">
 <span style="color:#85B7EB; font-weight:bold;">nosedimetuXD/</span>
+<span style="color:#5A8DBF;">├──</span> <span style="color:#3178C6; font-weight:bold;">Web-Platforms-FullStack/</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/Enchiladitos" style="color:#B5D4F4; font-weight:bold;">🌶️ Enchiladitos</a> <span style="color:#7A93B5;">(POS &amp; ERP · React 19 + Go + PostgreSQL)</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/Toffee" style="color:#B5D4F4; font-weight:bold;">☕ Toffee</a> <span style="color:#7A93B5;">(POS &amp; Cafetería · React + Go + PostgreSQL)</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/Minogar28/CEIS_HUB" style="color:#B5D4F4;">CEIS_HUB</a> <span style="color:#7A93B5;">(Portal Estudiantil · Universidad de Cartagena)</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/ManuelAmell/AdminFit" style="color:#B5D4F4;">AdminFit</a> <span style="color:#7A93B5;">(TypeScript Fitness Management)</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/ManuelAmell/Hackathon-CTW-Arepa-Tech" style="color:#B5D4F4;">Hackathon-CTW-Arepa-Tech</a> <span style="color:#7A93B5;">(CTW Hackathon 2026)</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/Suite-GeoEspacial" style="color:#B5D4F4;">Suite-GeoEspacial</a> <span style="color:#7A93B5;">(TypeScript Geospatial Suite)</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/Tienda-Glowandwear" style="color:#B5D4F4;">Tienda-Glowandwear</a> &amp; <a href="https://github.com/dasda214/tienda-sakuracrochet" style="color:#B5D4F4;">tienda-sakuracrochet</a>
+<span style="color:#5A8DBF;">│   └──</span> <a href="https://github.com/nosedimetuXD/Intimos" style="color:#B5D4F4;">Intimos</a> · <a href="https://github.com/nosedimetuXD/QQSI" style="color:#B5D4F4;">QQSI</a>
+<span style="color:#5A8DBF;">│</span>
 <span style="color:#5A8DBF;">├──</span> <span style="color:#00599C; font-weight:bold;">Systems-HPC-Cpp/</span>
-<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/HPC-Studio" style="color:#B5D4F4;">HPC-Studio</a> <span style="color:#7A93B5;">(Quantum Simulation &amp; Parallel Computing)</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/HPC-Studio" style="color:#B5D4F4; font-weight:bold;">⚛️ HPC-Studio</a> <span style="color:#7A93B5;">(Quantum Simulation &amp; Parallel Computing)</span>
 <span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/HPC-Studio-Backend" style="color:#B5D4F4;">HPC-Studio-Backend</a> <span style="color:#7A93B5;">(Python Computational Engine)</span>
 <span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/HPC-Studio-download-page" style="color:#B5D4F4;">HPC-Studio-download-page</a>
 <span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/GamepadMapperLib" style="color:#B5D4F4;">GamepadMapperLib</a> <span style="color:#7A93B5;">(C++ Input Controller Library)</span>
 <span style="color:#5A8DBF;">│   └──</span> <a href="https://github.com/nosedimetuXD/Semard-Control-Center" style="color:#B5D4F4;">Semard-Control-Center</a> <span style="color:#7A93B5;">(Go Control Core)</span>
 <span style="color:#5A8DBF;">│</span>
 <span style="color:#5A8DBF;">├──</span> <span style="color:#3776AB; font-weight:bold;">AI-Vision-Automation/</span>
-<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/Dmgar/project_Flowsense" style="color:#B5D4F4;">project_Flowsense</a> <span style="color:#7A93B5;">(OpenCV 5 · Emergency Traffic Perception - AWS)</span>
+<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/Dmgar/project_Flowsense" style="color:#B5D4F4; font-weight:bold;">🚑 project_Flowsense</a> <span style="color:#7A93B5;">(OpenCV 5 · Emergency Traffic Perception - AWS)</span>
 <span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/Software-Docs-Engineer" style="color:#B5D4F4;">Software-Docs-Engineer</a> <span style="color:#7A93B5;">(Python Automated Documentation)</span>
 <span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/Web-Quality-and-SEO-auditor" style="color:#B5D4F4;">Web-Quality-and-SEO-auditor</a> <span style="color:#7A93B5;">(Technical SEO &amp; A11y Auditor)</span>
 <span style="color:#5A8DBF;">│   └──</span> <a href="https://github.com/ManuelAmell/CEISync" style="color:#B5D4F4;">CEISync</a> <span style="color:#7A93B5;">(Python Synchronization Tool)</span>
-<span style="color:#5A8DBF;">│</span>
-<span style="color:#5A8DBF;">├──</span> <span style="color:#3178C6; font-weight:bold;">Web-Platforms-FullStack/</span>
-<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/Toffee" style="color:#B5D4F4;">Toffee</a> <span style="color:#7A93B5;">(POS &amp; Cafetería · React + Go + PostgreSQL)</span>
-<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/Minogar28/CEIS_HUB" style="color:#B5D4F4;">CEIS_HUB</a> <span style="color:#7A93B5;">(Portal Estudiantil · Universidad de Cartagena)</span>
-<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/ManuelAmell/AdminFit" style="color:#B5D4F4;">AdminFit</a> <span style="color:#7A93B5;">(TypeScript Fitness Management)</span>
-<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/ManuelAmell/Hackathon-CTW-Arepa-Tech" style="color:#B5D4F4;">Hackathon-CTW-Arepa-Tech</a> <span style="color:#7A93B5;">(CTW Hackathon 2026)</span>
-<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/Suite-GeoEspacial" style="color:#B5D4F4;">Suite-GeoEspacial</a> <span style="color:#7A93B5;">(TypeScript Geospatial Suite)</span>
-<span style="color:#5A8DBF;">│   ├──</span> <a href="https://github.com/nosedimetuXD/Tienda-Glowandwear" style="color:#B5D4F4;">Tienda-Glowandwear</a> &amp; <a href="https://github.com/dasda214/tienda-sakuracrochet" style="color:#B5D4F4;">tienda-sakuracrochet</a>
-<span style="color:#5A8DBF;">│   └──</span> <a href="https://github.com/nosedimetuXD/Enchiladitos" style="color:#B5D4F4;">Enchiladitos</a> · <a href="https://github.com/nosedimetuXD/Intimos" style="color:#B5D4F4;">Intimos</a> · <a href="https://github.com/nosedimetuXD/QQSI" style="color:#B5D4F4;">QQSI</a>
 <span style="color:#5A8DBF;">│</span>
 <span style="color:#5A8DBF;">└──</span> <span style="color:#7FD99A; font-weight:bold;">University-Academia/</span>
 <span style="color:#5A8DBF;">    ├──</span> <a href="https://github.com/nosedimetuXD/Proyecto-corte-1-Automatas" style="color:#B5D4F4;">Proyecto-corte-1-Automatas</a> <span style="color:#7A93B5;">(Teoría de Autómatas)</span>
