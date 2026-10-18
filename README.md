@@ -125,7 +125,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌶️ [Enchiladitos](https://github.com/nosedimetuXD/Enchiladitos) · [Live Demo](https://enchiladitos.vercel.app/)
+### 🌶️ [Enchiladitos](https://github.com/nosedimetuXD/Enchiladitos) 
 
 **Sistema de Gestión & Punto de Venta (POS) Integral**
 
