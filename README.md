@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=378ADD&center=true&vCenter=true&width=800&lines=Systems+Engineering+Student+%F0%9F%8E%93+%7C+Universidad+de+Cartagena;Python+%7C+TypeScript+%7C+C%2B%2B+%7C+Go+%7C+React+Developer;Building+real-world+solutions%2C+one+commit+at+a+time;%22No+es+necesario+que+des+una+respuesta+ahora+mismo...%22;%22...Pero+no+dejes+de+avanzar+hasta+que+la+encuentres.%22+%E2%80%94+Aoi+Todo" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=378ADD&center=true&vCenter=true&width=800&lines=Systems+Engineering+Student+%F0%9F%8E%93+%7C+Universidad+de+Cartagena;Python+%7C+TypeScript+%7C+C%2B%2B+%7C+Go+%7C+React+Developer;%22No+es+necesario+que+des+una+respuesta+ahora+mismo...%22;%22...Pero+no+dejes+de+avanzar+hasta+que+la+encuentres.%22+%E2%80%94+Aoi+Todo" alt="Typing SVG" /></a>
 
 <br/><br/>
 
